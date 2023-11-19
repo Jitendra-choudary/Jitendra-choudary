@@ -2,7 +2,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chetan0777&label=Profile%20views&color=0e75b6&style=flat" alt="Chetan0777" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chetan0777&label=Profile%20views&color=0e75b6&style=flat" alt="Jitendra Choudary" /> </p>
 
 
 
@@ -15,7 +15,7 @@
 - 🏫 at Raghu Engineering College.
 - 👯 I'm down into projects and collaborations.
 - 🎯 AWS Certified Cloud Practitioner.
-- 👨‍💻 This is [My Portfolio]()
+- 👨‍💻 This is [My Portfolio](https://jitendra-choudary.github.io/My-Portfolio/)
 - 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/jitendrachoudary/)
 -  📄 This is [My Resume]()
 - 📫 How to reach me: ...**jchoudary2024@gmail.com**
@@ -24,23 +24,15 @@
 
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/chetan-k-528420236/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/chetan-k-528420236/" />
+    <a href="https://www.linkedin.com/in/jitendrachoudary/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jitendrachoudary/" />
     </a>
 
 
 <br>
 <br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Chetan!;Learning+Full+Stack+Web+Development...👨🏻‍💻;Learning+Java+Backend+Development...👨🏻‍💻;Learning+Data+Structures+&+Algorithms...👨🏻‍💻;" style="width: 100%;">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-
-
-
 <br>
+
 <! -----------------Tech Stack Section--------------------- >
 
 ### <h2><i>👨🏻‍💻 Tech Stack & Languages</i></h2>
@@ -54,12 +46,6 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 
 
-
-### <h2><i>🚀 Libraries & Frameworks</i></h2>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=852100&label=" alt=""/></a>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&color=00d09c&label=" alt="" /></a>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=000030&label=" alt=""/></a>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=400030&label=" alt=""/></a>
 
 
 ### <h2><i>💻 Databases</i></h2>
@@ -78,19 +64,13 @@
 </div>
 <br>
 <h2 align="center"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
-   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chetan0777&theme=onedark" alt="Chetan0777" />
+   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jitendra-choudary&theme=onedark" alt="Chetan0777" />
     </p>
 <p align="center">
-<!--     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chetan0777&theme=onedark" height="192px"/></a> -->
-    <br>
+
   &nbsp;
-<!-- 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chetan0777&theme=onedark" alt="7oSkaaa" height="192px"/> -->
-    <br>
-	<p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Chetan0777&show_icons=true&locale=en&theme=onedark" alt="Chetan0777"  height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan0777&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=onedark" alt="Chetan0777" height="139" />
-</p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan0777&theme=onedark" alt="mystreak"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra-choudary&theme=onedark" alt="mystreak"/>
   </p>
 
 

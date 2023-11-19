@@ -12,18 +12,14 @@
 - 📫 How to reach me: ...**jchoudary2024@gmail.com**
 
 
-<p align="right"><img alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif"></p>
 
 <h2 align="center"><i>Let's Connect</i></h2>
 
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/jitendrachoudary/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jitendrachoudary/" />
-    </a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/jitendrachoudary/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jitendrachoudary/" /></a></p>
 
 <br>
+<p align="center"><img alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif"></p>
+
 
 ### <h2><i>👨🏻‍💻 Tech Stack & Languages</i></h2>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

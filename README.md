@@ -4,7 +4,7 @@
 
 
 <p align="right"><img alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif"></p>
-<p align="left">
+<div align="left" width="50%">
     - 🎓 I am Final-Year Computer Science undergraduate student
 - 🏫 at Raghu Engineering College.
 - 👯 I'm down into projects and collaborations.
@@ -13,7 +13,7 @@
 - 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/jitendrachoudary/)
 -  📄 This is [My Resume]()
 - 📫 How to reach me: ...**jchoudary2024@gmail.com**
-</p>
+</div>
 
 
 <h2 align="center"><i>Let's Connect</i></h2>

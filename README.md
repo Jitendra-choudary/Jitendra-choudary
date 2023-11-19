@@ -33,7 +33,7 @@
 <br>
 <br>
 
-<! -----------------Tech Stack Section--------------------- >
+ -----------------Tech Stack Section--------------------- 
 
 ### <h2><i>👨🏻‍💻 Tech Stack & Languages</i></h2>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,21 +54,12 @@
  
  
  
-<!---------------- Social Media Links Section------------------------->
 
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
+
 <br>
-<h2 align="center"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
-   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jitendra-choudary&theme=onedark" alt="Chetan0777" />
-    </p>
-<p align="center">
 
-  &nbsp;
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra-choudary&theme=onedark" alt="mystreak"/>
   </p>

@@ -22,7 +22,7 @@
     <a href="https://www.linkedin.com/in/jitendrachoudary/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jitendrachoudary/" />
     </a>
-
+</p>
 
 <br>
 <br>
@@ -35,25 +35,18 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-<img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
-<br><br>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-
-
-
-
 ### <h2><i>💻 Databases</i></h2>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br>
-<br>
-<br>
 
+<img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
+<br>
+<br>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+<br>
+<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra-choudary&theme=onedark" alt="mystreak"/>
-
-
-
+<br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
-
-
+<br>
 <img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />

@@ -1,9 +1,6 @@
 # Hi there 👋 , I am Jitendra Choudhary
 
- ### - 🎓 I am Final-Year Computer Science undergraduate student
- ### - 🏫 at Raghu Engineering College.
- ### - 👯 I'm down into projects and collaborations.
- ### - 🎯 AWS Certified Cloud Practitioner.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chetan0777&label=Profile%20views&color=0e75b6&style=flat" alt="Chetan0777" /> </p>
 
@@ -14,14 +11,14 @@
 
 
 
-- 🔭 I’m currently working on Backend and Frontend technologies 😅
-- 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
-- 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 👨‍💻 This is [My Portfolio](https://chetan0777.github.io/Chetan0777/)
-- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/chetan-k-528420236/)
--  📄 This is [My Resume](https://drive.google.com/file/d/13fc2WMsP2p_9dpM3AqLslADvZ1HifnRa/view?usp=sharing)
-- 📫 How to reach me: ...**coderchetan1@gmail.com**
+- 🎓 I am Final-Year Computer Science undergraduate student
+- 🏫 at Raghu Engineering College.
+- 👯 I'm down into projects and collaborations.
+- 🎯 AWS Certified Cloud Practitioner.
+- 👨‍💻 This is [My Portfolio]()
+- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/jitendrachoudary/)
+-  📄 This is [My Resume]()
+- 📫 How to reach me: ...**jchoudary2024@gmail.com**
 
 <h2 align="center"><i>Let's Connect</i></h2>
 

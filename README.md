@@ -3,10 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jitendra-choudary&label=Profile%20views&color=0e75b6&style=flat" alt="Jitendra Choudary" /> </p>
 
 
-
-
 <p align="right"><img alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif"></p>
-- 🎓 I am Final-Year Computer Science undergraduate student
+<p align="left">
+    - 🎓 I am Final-Year Computer Science undergraduate student
 - 🏫 at Raghu Engineering College.
 - 👯 I'm down into projects and collaborations.
 - 🎯 AWS Certified Cloud Practitioner.
@@ -14,6 +13,8 @@
 - 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/jitendrachoudary/)
 -  📄 This is [My Resume]()
 - 📫 How to reach me: ...**jchoudary2024@gmail.com**
+</p>
+
 
 <h2 align="center"><i>Let's Connect</i></h2>
 

@@ -36,6 +36,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 <img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
+<br><br>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 
 
@@ -49,7 +50,6 @@
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra-choudary&theme=onedark" alt="mystreak"/>
-  </p>
 
 
 

@@ -25,10 +25,6 @@
 </p>
 
 <br>
-<br>
-<br>
-
- -----------------Tech Stack Section--------------------- 
 
 ### <h2><i>👨🏻‍💻 Tech Stack & Languages</i></h2>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,10 +35,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
-<br>
 <br>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+<br>
+<img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
 <br>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra-choudary&theme=onedark" alt="mystreak"/>

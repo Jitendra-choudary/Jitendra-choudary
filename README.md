@@ -9,7 +9,7 @@
 - 🎯 AWS Certified Cloud Practitioner.
 - 👨‍💻 This is [My Portfolio](https://jitendra-choudary.github.io/My-Portfolio/)
 - 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/jitendrachoudary/)
--  📄 This is [My Resume](https://drive.google.com/file/d/1ECB-2xMPkt2XbXJo_unJBE0s6q82Fl9A/view?usp=sharing)
+-  📄 This is [My Resume](https://drive.google.com/file/d/16DMu_hXTFKXmiLRuH2Qz2J3iggslcqOv/view?usp=drivesdk)
 - 📫 How to reach me: ...**jchoudary2024@gmail.com**
 
 

@@ -14,7 +14,7 @@
   
 -   🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/jitendrachoudary/)
   
--   📄 This is [My Resume](https://drive.google.com/file/d/16DMu_hXTFKXmiLRuH2Qz2J3iggslcqOv/view?usp=drivesdk)
+-   📄 This is [My Resume]([https://drive.google.com/file/d/16DMu_hXTFKXmiLRuH2Qz2J3iggslcqOv/view?usp=drivesdk](https://drive.google.com/file/d/1P9nfw6EEXvR8PSeVJjc2gWS9BrEFyohU/view?usp=sharing))
   
 -   📫 How to reach me: ...**jchoudary2024@gmail.com**
 
